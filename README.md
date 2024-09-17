@@ -9,4 +9,6 @@ competitive programming training Level 2
   <li> Week 6 : </li>
   <li> Week 7 : </li>
   <li> Week 8 : </li>
+  <li> Week 9 : </li>
+  <li> Week 10 : </li>
 </ul>
